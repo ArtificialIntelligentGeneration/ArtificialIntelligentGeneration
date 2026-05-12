@@ -36,4 +36,5 @@ I prefer narrow, verifiable automation: small surface area, clear logs, local da
 ## Contact
 
 - Telegram: [@HermannSaliter](https://t.me/HermannSaliter)
+- Portfolio: [vibe-coder-portfolio-eight.vercel.app](https://vibe-coder-portfolio-eight.vercel.app)
 - Site: [aigen-agency.com](https://aigen-agency.com)
