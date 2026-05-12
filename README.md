@@ -1,4 +1,4 @@
-# Hermann Saliter / Julian Reiter
+# Hermann Saliter
 
 AI systems engineer focused on agent orchestration, workflow automation, and practical tooling that removes manual work from messy business processes.
 
@@ -13,7 +13,8 @@ I build with Python, TypeScript, LLM APIs, Telegram/MTProto, browser automation,
 
 ## Code samples
 
-- [Portfolio samples](./portfolio-samples) - sanitized excerpts for an agent orchestrator and Telegram/job routing pipeline.
+- [Showcase projects](./showcase) - sanitized code from Aisana, Telegram job routing, finance automation, and outbound-agent work.
+- [Portfolio samples](./portfolio-samples) - compact excerpts for an agent orchestrator and Telegram/job routing pipeline.
 
 ## Selected public work
 
@@ -32,4 +33,7 @@ I build with Python, TypeScript, LLM APIs, Telegram/MTProto, browser automation,
 
 I prefer narrow, verifiable automation: small surface area, clear logs, local data ownership, and explicit approval points where automation can affect real people or money.
 
-Site: [aigen-agency.com](https://aigen-agency.com)
+## Contact
+
+- Telegram: [@HermannSaliter](https://t.me/HermannSaliter)
+- Site: [aigen-agency.com](https://aigen-agency.com)
