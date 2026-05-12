@@ -1,0 +1,34 @@
+{
+  "agents": [
+    {
+      "id": "lead-researcher",
+      "mission": "Collect company-level public facts and contact-channel candidates.",
+      "guardrail": "No private personal data; public business sources only.",
+      "deliverables": ["lead fact sheet", "missing-info list", "source notes"]
+    },
+    {
+      "id": "site-auditor",
+      "mission": "Identify conversion, mobile, accessibility, and clarity issues on the existing website.",
+      "guardrail": "Do not invent business claims; separate observed facts from suggestions.",
+      "deliverables": ["site weakness report", "before/after opportunities"]
+    },
+    {
+      "id": "demo-builder",
+      "mission": "Create a low-scope redesign demo using public facts and a reusable template.",
+      "guardrail": "Unofficial demo label must be visible; no impersonation or live data collection.",
+      "deliverables": ["demo page", "implementation notes", "QA checklist"]
+    },
+    {
+      "id": "legal-safety-gate",
+      "mission": "Review whether the first contact is legal, low-volume, and reputationally safe.",
+      "guardrail": "Block mass outreach until a legal decision is recorded.",
+      "deliverables": ["channel decision", "do-not-contact hygiene", "risk notes"]
+    },
+    {
+      "id": "operator",
+      "mission": "Approve, edit, or reject final outreach drafts before anything is sent.",
+      "guardrail": "Human approval is mandatory for real messages.",
+      "deliverables": ["approved draft", "send/no-send decision"]
+    }
+  ]
+}
