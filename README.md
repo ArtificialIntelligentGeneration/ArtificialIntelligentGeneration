@@ -11,6 +11,10 @@ I build with Python, TypeScript, LLM APIs, Telegram/MTProto, browser automation,
 - Business workflow automation: n8n/ReAct pipelines, inbox monitoring, lead enrichment, website analysis, Google Sheets/reporting automations, and browser-controlled QA.
 - Developer tools: small CLIs, data utilities, API wrappers, and repeatable scripts for real operating work.
 
+## Code samples
+
+- [Portfolio samples](./portfolio-samples) - sanitized excerpts for an agent orchestrator and Telegram/job routing pipeline.
+
 ## Selected public work
 
 - [TGFlow](https://github.com/ArtificialIntelligentGeneration/TGFlow) - PyQt6 + Pyrogram desktop app for high-load Telegram workflow automation with async queues, multi-account orchestration, local storage, dry-run checks, and packaging notes.
