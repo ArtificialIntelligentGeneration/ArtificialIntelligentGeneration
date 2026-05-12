@@ -13,7 +13,7 @@ I build with Python, TypeScript, LLM APIs, Telegram/MTProto, browser automation,
 
 ## Code samples
 
-- [Showcase projects](./showcase) - sanitized code from Aisana, Telegram job routing, finance automation, and outbound-agent work.
+- [Showcase projects](./showcase) - sanitized code from Aisana, Telegram job routing, finance automation, outbound-agent work, and MAKER-style decomposition.
 - [Portfolio samples](./portfolio-samples) - compact excerpts for an agent orchestrator and Telegram/job routing pipeline.
 
 ## Selected public work
