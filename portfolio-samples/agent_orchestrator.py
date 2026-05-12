@@ -11,7 +11,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from enum import Enum
-from typing import Callable, Iterable, Protocol
+from typing import Iterable, Protocol
 from uuid import uuid4
 
 
